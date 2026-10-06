@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioTecnico.Console", "src\DesafioTecnico.Console\DesafioTecnico.Console.csproj", "{C1D2E3F4-3333-4444-5555-666677778888}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioTecnico.Tests", "tests\DesafioTecnico.Tests\DesafioTecnico.Tests.csproj", "{D2E3F4A5-4444-5555-6666-777788889999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D2E3F4-3333-4444-5555-666677778888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D2E3F4-3333-4444-5555-666677778888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D2E3F4-3333-4444-5555-666677778888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D2E3F4-3333-4444-5555-666677778888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E3F4A5-4444-5555-6666-777788889999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E3F4A5-4444-5555-6666-777788889999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E3F4A5-4444-5555-6666-777788889999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E3F4A5-4444-5555-6666-777788889999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

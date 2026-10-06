@@ -1,0 +1,38 @@
+## Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]og/
+[Ll]ogs/
+*.binlog
+msbuild.log
+
+## Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+## Testes
+[Tt]est[Rr]esult*/
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+## Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
